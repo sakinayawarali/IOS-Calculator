@@ -1,16 +1,38 @@
-# hi
+# IOS Calculator
 
-A new Flutter project.
+A simple iOS-styled calculator app built with Flutter.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This is a basic calculator app designed to mimic the appearance and functionality of the iOS calculator. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as clearing the input, toggling the sign of the number, and evaluating expressions.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Responsive layout that adapts to different screen sizes
+- iOS-style button design and functionality
+- Supports basic arithmetic operations (+, -, *, /)
+- Allows input of decimal numbers
+- Supports clearing the input and evaluating expressions
+- Toggle the sign of the displayed number with the ± button
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+1. Clone the repository to your local machine.
+2. Open the project in your preferred IDE or code editor.
+3. Ensure you have Flutter installed and set up on your machine.
+4. Run the project on an emulator or physical device using `flutter run`.
+
+## Technologies Used
+
+- Flutter
+- Dart
+- math_expressions package for evaluating mathematical expressions
+- Cupertino widgets for iOS-styled UI components
+
+## Author
+
+Sakina Ali
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
